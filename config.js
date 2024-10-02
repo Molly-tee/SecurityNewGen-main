@@ -1,5 +1,5 @@
 {
-    "creator": "https://wa.me/2348144723858",
+    "creator": "https://wa.me/2349025526060",
     "access": [
       "07016218515"
     ],
